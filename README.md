@@ -5,7 +5,7 @@ A smart, AI-powered fashion discovery app that helps users find and style clothi
 ## 🌟 Features
 
 ### Core Functionality
-- **Smart Swipe Interface** - Tinder-style fashion discovery
+- **Smart Swipe Interface** - Tinder/TikTok -style fashion discovery
 - **AI Style Matching** - Upload any clothing item to find matches
 - **Outfit Generator** - AI-powered outfit creation from your wardrobe
 - **Personal Wardrobe** - Save and manage your favorite items
@@ -85,26 +85,9 @@ VisionFit combines the addictive swipe mechanics of modern dating apps with soph
 
 ## 🔮 Future Features
 
+- [ ] AR Mirror Projection 
 - [ ] Social sharing and collaboration
 - [ ] Advanced body type recommendations  
 - [ ] Integration with shopping platforms
 - [ ] Seasonal trend analysis
 - [ ] Personal stylist chat bot
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Fashion data curated from leading brands
-- Color theory based on modern fashion principles  
-- UI/UX inspired by best-in-class mobile apps
-
----
-
-**VisionFit** - *Where AI meets fashion* ✨👗
