@@ -31,6 +31,9 @@ A smart, AI-powered fashion discovery app that helps users find and style clothi
 - **Data**: 7,475+ curated fashion items from 8+ brands
 - **Performance**: Optimized for smooth 60fps interactions
 
+## Video Demo - Youtube
+https://www.youtube.com/watch?v=9sgGL9-m8os
+
 ## 🚀 Getting Started
 
 ### Prerequisites
